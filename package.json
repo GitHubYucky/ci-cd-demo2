@@ -1,0 +1,11 @@
+{
+  "name": "ci-cd-demo",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha"
+  },
+  "dependencies": {
+    "mocha": "^11.5.0"
+  }
+}
